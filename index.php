@@ -9,11 +9,10 @@
 </head>
 <body>
 
-<header style="backgroud-color: blue; width: 100%; height: 200px;">
-    <section style="background-color:green width:100%; height: 50px;"></section>
+<nav style="background-color: blue; width: 50%; height: 10px;"></nav>
+    <section style="background-color: green width:100%; height: 10px;"></section>
     <p> soy un parrafo negro </p>
-
-    <nav style="background-color:"></nav>
+    <nav style="background-color: black; width: 50%; height: 10px;"></nav>
 </header>
 
 header>section+nav
